@@ -1,2 +1,2 @@
-# case-study-5-15
-Case Study for UPenn Fintech Bootcamp
+# Fintech Case Study
+This is my fintech case study on Bitcoin.
