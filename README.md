@@ -1,3 +1,8 @@
+# Oh No YOU'VE BEEN HACKED!!!!!!!
+This is my _fintech_ case study on **Bitcoin**.
+
+---
+
 ## What is bitcoin?
 
 ## Who uses bitcoin? 
